@@ -1,20 +1,20 @@
 # 👋 Hi, I'm Matt Lam  
 
-### Product Manager · Builder · Founder · Data-Driven Storyteller  
+### Product Manager · Builder · Creator · Data-Driven Storyteller  
 
-I’m a **Senior Product Manager at Starbucks** and the **Founder of Flock**, where I build meaningful products at the intersection of **AI, mobile, and community**. I love creating tools that help people grow — from global enterprise systems to personal habit-forming apps.  
+I’m a **Product Manager & Developer**, building products that serve people and community. I've led teams, launched global products, and built my own apps - bleding **strategy, design, and engineering** every step of the way.
 
 ---
 
 ## 🧠 What I Do  
 
-- **Product & Strategy** – Lead cross-functional teams, define product vision, and scale solutions globally.  
+- **Product & Strategy** – Lead cross-functional teams, define product vision, utilize analytics, and scale solutions globally.  
 - **Engineering & Data** – Hands-on with React, Swift, Firebase, and TypeScript; turn ideas into working prototypes.  
-- **Leadership** – Build and empower teams, translate vision into execution, and keep a bias for action.  
+- **Leadership** – Build and empower teams, translate vision into execution, and serve people.  
 
 ---
 
-## 🧮 Featured Projects  
+## 🧮 What I'm Building
 
 ### [🙏 Flock – Your Prayer Journey](https://apps.apple.com/us/app/flock-your-prayer-journey/id6754290304)  
 A community-driven prayer app that helps people build spiritual habits through reflection and connection.  
@@ -84,14 +84,13 @@ Delivered financial insights and operational efficiency projects across U.S., Re
 
 ## ⏳ Now  
 
-- Building **Flock v2** — expanding community features, analytics, and push notifications  
-- Deploying **Firebase Cloud Functions** with OpenAI for text and audio analysis  
-- Experimenting with **React Query + Zustand** for offline-first architecture  
-- Exploring how **AI insights** can drive better human connection  
+- Leading a team of devs and ux to build **Flock** — onto phase 2 - social / community features
+- Exploring the intersection between new technology, ai, and human connection
+- Diving deep into **Philosophy** and learning how to unpack the world of wisdom, truth, and curiosity.
 
 ---
 
 ## 📢 Connect  
 
-[LinkedIn](https://www.linkedin.com/in/matthewylam/) • [Email](mailto:matthewthelam@gmail.com) • [App Store](https://apps.apple.com/us/developer/matthew-lam/id1817486473)
+[LinkedIn](https://www.linkedin.com/in/matthewylam/) • [Email](mailto:matthewthelam@gmail.com) • [App Store](https://apps.apple.com/us/app/flock-your-prayer-journey/id6754290304)
 
