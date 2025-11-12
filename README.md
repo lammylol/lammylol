@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Matt Lam  
 
-### Product Manager · Builder · Creator · Data-Driven Storyteller  
+### Product Manager · Creator · Data-Driven Storyteller  
 
 I’m a **PM & Developer**, building products that serve people and community. I've led teams, launched global products, and built my own apps - blending **strategy, design, and engineering** every step of the way.
 
