@@ -20,7 +20,7 @@ Built with **React Native** and **OpenAI API**.
 ## About Me
 **Career**
 - **Senior Product Manager – Starbucks (2022–Present)**. Led a 40-person engineering org on a $20M global HR platform, improving the daily experience for 400k+ employees.  
-- **Project Manager, Data Analytics – Starbucks (2021–2022)**. Founded Global Security’s first data analytics team; launched AI-powered predictive tools used by global executives.  
+- **Product Manager, Data Analytics – Starbucks (2021–2022)**. Founded Global Security’s first data analytics team; launched AI-powered predictive tools used by global executives.  
 - **Finance Analyst – Starbucks (2019–2021)**. Delivered financial insights and operational efficiency projects across U.S., Rewards, and International business units.  
 
 **Beyond Work**
