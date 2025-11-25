@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Matt Lam  
+[LinkedIn](https://www.linkedin.com/in/matthewylam/) • [Email](mailto:matthewthelam@gmail.com) • [App Store](https://apps.apple.com/us/app/flock-your-prayer-journey/id6754290304)
 
 ### Product Manager · Creator · Data-Driven Storyteller  
 
@@ -18,6 +19,7 @@ Built with **React Native** and **OpenAI API**.
 - [👶 Flock – Baby Shower Edition](https://github.com/lammylol/Flock-BabyShower) - A one-off version of Flock built for our baby shower — a space for family and friends to record prayers for our daughter
 
 ## About Me
+
 **Career**
 - **Senior Product Manager – Starbucks (2022–Present)**. Led a 40-person engineering org on a $20M global HR platform, improving the daily experience for 400k+ employees.  
 - **Product Manager, Data Analytics – Starbucks (2021–2022)**. Founded Global Security’s first data analytics team; launched AI-powered predictive tools used by global executives.  
@@ -32,8 +34,4 @@ Built with **React Native** and **OpenAI API**.
 - Leading a team of devs and ux to continue to build **Flock** — onto phase 2 - social / community features
 - Exploring the intersection between new technology, ai, and human connection
 - Diving deep into **Philosophy** and learning how to unpack the world of wisdom, truth, and curiosity.
-
-## 📢 Connect  
-
-[LinkedIn](https://www.linkedin.com/in/matthewylam/) • [Email](mailto:matthewthelam@gmail.com) • [App Store](https://apps.apple.com/us/app/flock-your-prayer-journey/id6754290304)
 
