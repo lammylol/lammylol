@@ -26,9 +26,10 @@ Built with **React Native** and **OpenAI API**.
 - **Finance Analyst – Starbucks (2019–2021)**. Delivered financial insights and operational efficiency projects across U.S., Rewards, and International business units.  
 
 **Beyond Work**
-- **City Group Leader** – Lead young adult communities at Mosaic Church, Seattle  
+- **City Group Leader** – Lead young adult communities at Mosaic Church, Seattle
+- **CrossFit, running, skiing, philosophy/history, sourdough baking, coffee enthusiast, cooking**
 - **Team USA Canoe & Kayak Coach** – Former athlete and coach at the U.S. national level  
-- **Global Service** – Worked in India and Lebanon supporting education and refugee communities  
+- **Community Service** – Worked in India and Lebanon supporting education and refugee communities  
 
 **Now**
 - Leading a team of devs and ux to continue to build **Flock** — onto phase 2 - social / community features
