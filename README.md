@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Matt Lam  
 [LinkedIn](https://www.linkedin.com/in/matthewylam/) • [Email](mailto:matthewthelam@gmail.com) • [App Store](https://apps.apple.com/us/app/flock-your-prayer-journey/id6754290304)
 
-### Product/Program Manager · Creator · Data-Driven Storyteller  
+### Product & Program Manager · Creator · Data-Driven Storyteller  
 
 I’m a **PM & Developer**, building products that serve people and community. I've led teams, launched global products, and built my own apps - blending **strategy, design, and engineering** every step of the way.
 
