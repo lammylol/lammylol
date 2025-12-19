@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Matt Lam  
 [LinkedIn](https://www.linkedin.com/in/matthewylam/) • [Email](mailto:matthewthelam@gmail.com) • [App Store](https://apps.apple.com/us/app/flock-your-prayer-journey/id6754290304)
 
-### Product Manager · Creator · Data-Driven Storyteller  
+### Product/Program Manager · Creator · Data-Driven Storyteller  
 
 I’m a **PM & Developer**, building products that serve people and community. I've led teams, launched global products, and built my own apps - blending **strategy, design, and engineering** every step of the way.
 
@@ -21,8 +21,8 @@ Built with **React Native** and **OpenAI API**.
 ## About Me
 
 **Career**
-- **Senior Product Manager – Starbucks (2022–Present)**. Led a 40-person engineering org on a $20M global HR platform, improving the daily experience for 400k+ employees.  
-- **Product Manager, Data Analytics – Starbucks (2021–2022)**. Founded Global Security’s first data analytics team; launched AI-powered predictive tools used by global executives.  
+- **Senior Technical Product Manager – Starbucks (2022–Present)**. Led a 40-person engineering org on a $20M global HR platform, improving the daily experience for 400k+ employees.  
+- **Senior Project Manager, Data Analytics – Starbucks (2021–2022)**. Founded Global Security’s first data analytics team; launched AI-powered predictive tools used by global executives.  
 - **Finance Analyst – Starbucks (2019–2021)**. Delivered financial insights and operational efficiency projects across U.S., Rewards, and International business units.  
 
 **Beyond Work**
